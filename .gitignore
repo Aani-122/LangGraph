@@ -1,0 +1,12 @@
+# Ignore Python virtual environment folders
+env/
+venv/
+
+# Ignore dotenv file
+.env
+
+# __pycache__ and other Python-generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
